@@ -33,8 +33,8 @@ The interactive dashboard answers key business questions:
 * **Global Filter Synchronization:** Applied dynamic page-level filters to ensure all KPIs and charts consistently reflect only the at-risk population.
 
 ## 🚀 How to Use
-1. Run the script located in `/SQL/setup_database.sql` to recreate the data environment.
-2. Open the `/Dashboard/Retention_Dashboard.pbix` file to explore the interactive report.
+1. Run the script located in `GymRetention360_Database_Setup.sq
+2. Open the `GymRetention360.pbix` file to explore the interactive report.
 
 ---
 **Author:** Ali Salia – IT & Data Student
